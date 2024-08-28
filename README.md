@@ -1,2 +1,2 @@
 # alarm-system
-Using an arduino uno, ultrasonic sensor, led, and buzzer mounted on a breadboard, this program will be able to detect when someone or something crosses a boundary
+Using an arduino uno, ultrasonic sensor, led, and buzzer mounted on a breadboard, this program will be able to detect when someone or something crosses a boundary. You must plug the provied code into the arduino IDE and run it through a usb-b cable to an arduino uno. After you have plugged it in you must wire everything to its respective port based on what you see in the code, then attactch each cathode of each componet to ground and it should run properly. You can customize the amount of distance you want the barrier to be in the if statement, the default is 60 cm.
